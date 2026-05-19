@@ -17,3 +17,4 @@ FPS unlock | VRAM monitoring | Async shader preload | Unity runtime overrides
 
 ## Build from source
 ### Password:123
+Before opening, be sure to extract the file to your desktop!
